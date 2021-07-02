@@ -33,9 +33,9 @@ Our Team:
 
 
 ### Data_Plot.ipynb
-- Save your accuracy values and iteration steps in an excel file
-- replace `example.xlsx` with your file name in `df = pd.read_excel(io.BytesIO(uploaded['example.xlsx']))`
-- replace `example.xlsx` with your file name in `data = pd.read_excel('example.xlsx')`
+1. Save your accuracy values and iteration steps in an excel file
+2. replace `example.xlsx` with your file name in `df = pd.read_excel(io.BytesIO(uploaded['example.xlsx']))`
+3. replace `example.xlsx` with your file name in `data = pd.read_excel('example.xlsx')`
 
 ## Example Results
 
