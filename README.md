@@ -49,6 +49,8 @@ Our Team:
 <img src="https://github.com/esbirol/CS523-summer2021/blob/main/accuracy.png" width="550" height="400">
 
 We have run 16000 iterations on our model.
+> #### Discussion
+> Our accuracy graph has reached upto 6% accuracy with only 16000 iterations. Our project was based on a model that had 1000000 iterations; however, replicating the 1000000 iterations would take a couple of days. Because of time constraints for the project, we ran our model on a smaller dataset and got our results with 16000 iterations. We see that with 16000 iterations, we have achieved around 6% accuracy. If we could replicate the 1000000 iterations, we foresee that we would get around 25% accuracy.
 
 
 ## References
