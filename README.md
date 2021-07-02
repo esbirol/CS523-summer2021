@@ -15,6 +15,22 @@ Our Team:
 ## Running Our Script
 
 ### CS523_BigBird_IMDB.ipynb
+##### Either
+1. login to scc account and download script
+2. In your terminal, `module load python3`
+3. run `python3 -m venv /path/to/new/virtual/environment`
+4. run `. bin/activate`
+5. `pip install tensorflow==2.3.1`
+6. `pip install git+https://github.com/google-research/bigbird.git`
+7. restart ssh client
+8. run `python nlp_sentiment_analysis.py`, or optionally run `qsub` with provided script
+
+##### Or (much easier)
+1. Open [our script](https://github.com/esbirol/CS523-summer2021/blob/main/CS523_BigBird_IMDB.ipynb) in Google Colab
+2. Run every cell 
+3. Voila! You have trained and evaluated your model on the sample data
+
+
 
 ### Data_Plot.ipynb
 - Save your accuracy values and iteration steps in an excel file
