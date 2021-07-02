@@ -52,6 +52,14 @@ We have run 16000 iterations on our model.
 
 
 ## References
-1. [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
-2. [KAT: a K-mer analysis toolkit to quality control NGS datasets and genome assemblies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408915/)
-3. [Optimizing experimental design for genome sequencing and assembly with Oxford Nanopore Technologies](https://www.biorxiv.org/content/10.1101/2020.05.05.079327v2)
+https://arxiv.org/abs/2007.14062
+
+`Big Bird: Transformers for Longer Sequences Manzil Zaheer, Guru Guruganesh, Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, Amr Ahmed`
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408915/
+
+`KAT: a K-mer analysis toolkit to quality control NGS datasets and genome assemblies Daniel Mapleson, Gonzalo Garcia Accinelli, George Kettleborough, Jonathan Wright, and Bernardo J Clavijo` 
+
+https://www.biorxiv.org/content/10.1101/2020.05.05.079327v2
+
+`Optimizing experimental design for genome sequencing and assembly with Oxford Nanopore Technologies John M. Sutton, Joshua D. Millwood, A. Case McCormack, Janna L. Fierst `
